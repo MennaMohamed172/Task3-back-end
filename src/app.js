@@ -67,7 +67,8 @@ app.get('/service' , (req , res) => {
         place2:"cairo",
         im2:"imgs/back.png",
         name3:"Flutter",
-        im3:"imgs/flutter.png"
+        im3:"imgs/flutter.png",
+        image:"imgs/map.jpg"
     })
 })
 
@@ -86,7 +87,7 @@ app.get('/team' , (req , res) => {
         img3 : "imgs/trainer-3.jpg",
         img4 : "imgs/trainer-1.jpg",
         image:"imgs/map.jpg",
-        image:"imgs/map.jpg"
+       
 
     })
 })
