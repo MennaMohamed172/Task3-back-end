@@ -1,0 +1,246 @@
+/* 
+h2 {
+    background-color: grey;
+    color: #fff;
+    font-size: 28px;
+    border-radius: 10px;
+}
+.header1 {
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(19, 174, 221) ;
+    opacity : 0.7;
+}
+.header1 a {
+    display: inline-block ;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px  0px;
+    margin-left: 100px;
+} */
+
+.hedt1 {
+
+    text-align: center;
+}
+
+/* .fixedimg {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.fixedimg1 {
+    background-image: url(../imgs/course-1.jpg);
+} */
+
+.footer {
+    background: #212120;
+    padding-top: 85px;
+    text-align: center;
+    margin-top: 490px;
+}
+
+.footer .titlepage {
+    text-align: left;
+    padding-bottom: 0px;
+}
+
+.footer .titlepage h2 {
+    color: #fff;
+}
+
+ul.location_icon {
+    padding-top: 12px;
+}
+
+ul.location_icon li {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+    padding-left: 62px;
+}
+
+ul.location_icon li a {
+    font-size: 30px;
+    color: #fff;
+    line-height: 30px;
+    padding-right: 15px;
+}
+
+ul.location_icon li a:hover {
+    color: #0808ff;
+}
+
+.main_form {
+    padding: 50px 0px 0px 0px;
+}
+
+.main_form .contactus {
+    border: inherit;
+    padding: 0px 15px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 60px;
+    background: transparent;
+    color: #777977;
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: #ddd solid 1px;
+}
+
+.main_form .textarea {
+    border: inherit;
+    padding: 0px 15px;
+    margin-bottom: 20px;
+    width: 100%;
+    background: transparent;
+    color: #777977;
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: #ddd solid 1px;
+    padding-top: 30px;
+}
+
+.main_form .send_btn {
+    font-size: 17px;
+    transition: ease-in all 0.5s;
+    background-color: #fff;
+    color: #000;
+    padding: 13px 0px;
+    max-width: 200px;
+    width: 100%;
+    display: block;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+.main_form .send_btn:hover {
+    background-color: #0808ff;
+    transition: ease-in all 0.5s;
+    color: #fff;
+}
+
+#request *::placeholder {
+    color: #777977;
+    opacity: 1;
+}
+
+ul.social_icon {
+ 
+
+    padding-top: 37px;
+}
+
+ul.social_icon li {
+    display: inline-block;
+    
+}
+
+ul.social_icon li a {
+    background: #fff;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    border-radius: 30px;
+    margin: 0 3px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+ul.social_icon li a:hover {
+    background-color: #0808ff;
+    color: #fff;
+}
+
+.map {
+    padding-top: 60px;
+}
+
+.map figure {
+    margin: 0;
+}
+
+.map figure img {
+    width: 100%;
+}
+
+.bottom_form {
+    padding-top: 29px;
+}
+
+.bottom_form h3 {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: left;
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+.bottom_form .enter {
+    border: inherit;
+    padding: 0px 19px;
+    width: 62%;
+    height: 53px;
+    background: #fff;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    float: left;
+}
+
+.sub_btn {
+    font-size: 17px;
+    transition: ease-in all 0.5s;
+    background-color: #0808ff;
+    color: #fff;
+    padding: 11px 0px;
+    max-width: 200px;
+    width: 100%;
+    display: block;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-left: -2px;
+    height: 53px;
+}
+
+.sub_btn:hover {
+    background-color: #0e0b0a;
+    transition: ease-in all 0.5s;
+    color: #fff;
+}
+
+.copyright {
+    margin-top: 90px;
+    padding: 20px 0px;
+}
+
+.copyright p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    border-top: #ddd solid 1px;
+    padding-top: 25px;
+}
+
+.copyright a {
+    color: #fff;
+}
+
+
+.copyright a:hover {
+    color: #0808ff;
+}
+
+
+/** end footer **/
+
